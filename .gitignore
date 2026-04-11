@@ -1,0 +1,13 @@
+# Ignore executable files
+*.exe
+
+# Ignore Codeforces Helper / CP Helper files
+*.cph
+
+# Optional (recommended for C++)
+*.out
+*.o
+*.obj
+
+# VS Code (optional)
+.vscode/
