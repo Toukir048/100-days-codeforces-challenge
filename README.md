@@ -16,13 +16,14 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | Day | Problem | Difficulty | Tags | Status |
 |-----|--------|-----------|------|--------|
 | 1   | T-prime | 800       | Math, Number Theory | ✅ |
+| 2   | Hit the Lottery | 800       | DP, Greedy | ✅ |
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 01  
-- 🔥 Current Streak: 01 days  
+- ✅ Total Problems Solved: 02 
+- 🔥 Current Streak: 02 days  
 - 🎯 Target: 100 Days  
 
 
