@@ -17,7 +17,7 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 |-----|--------|-----------|------|--------|
 | 1   | T-prime | 800       | Math, Number Theory | ✅ |
 | 2   | Hit the Lottery | 800       | DP, Greedy | ✅ |
-| 3   | Registration System | 1300       | DP, Greedy | ✅ |
+| 3   | Registration System | 1300       | data structures, hashing, implementation | ✅ |
 
 ---
 
