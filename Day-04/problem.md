@@ -1,4 +1,4 @@
-# Problem: T-prime
+# Problem: Interesting drink
 Link: https://codeforces.com/problemset/problem/706/B
 
 ## Difficulty:
