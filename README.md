@@ -20,13 +20,14 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | 3   | Registration System | 1300       | data structures, hashing, implementation | ✅ |
 | 4   | Interesting drink | 1100       | Binary Search, DP, Implementation | ✅ |
 | 5   | Cut Ribbon | 1300       | Brute force, DP | ✅ |
+| 6   | Vanya and Lanterns | 1200       | Binary search, Implementation, Math, Sortings | ✅ |
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 05
-- 🔥 Current Streak: 05 days  
+- ✅ Total Problems Solved: 06
+- 🔥 Current Streak: 06 days  
 - 🎯 Target: 100 Days  
 
 
