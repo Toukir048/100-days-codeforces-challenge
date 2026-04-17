@@ -21,13 +21,14 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | 4   | Interesting drink | 1100       | Binary Search, DP, Implementation | ✅ |
 | 5   | Cut Ribbon | 1300       | Brute force, DP | ✅ |
 | 6   | Vanya and Lanterns | 1200       | Binary search, Implementation, Math, Sortings | ✅ |
+| 7   | Cheap Travel | 1200       | Implementation | ✅ |
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 06
-- 🔥 Current Streak: 06 days  
+- ✅ Total Problems Solved: 07
+- 🔥 Current Streak: 07 days  
 - 🎯 Target: 100 Days  
 
 
