@@ -5,4 +5,4 @@ Link: https://codeforces.com/problemset/problem/131/A
 Easy
 
 ## Tags:
-Implementation, Strings
+Implementation
