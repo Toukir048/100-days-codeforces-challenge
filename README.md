@@ -22,13 +22,15 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | 5   | Cut Ribbon | 1300       | Brute force, DP | ✅ |
 | 6   | Vanya and Lanterns | 1200       | Binary search, Implementation, Math, Sortings | ✅ |
 | 7   | Cheap Travel | 1200       | Implementation | ✅ |
+| 8   | cAPS lOCK | 1000       | Implementation, Strings | ✅ |
+
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 07
-- 🔥 Current Streak: 07 days  
+- ✅ Total Problems Solved: 08
+- 🔥 Current Streak: 08 days  
 - 🎯 Target: 100 Days  
 
 
