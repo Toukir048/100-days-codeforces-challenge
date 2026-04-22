@@ -24,14 +24,15 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | 7   | Cheap Travel | 1200       | Implementation | ✅ |
 | 8   | cAPS lOCK | 1000       | Implementation, Strings | ✅ |
 | 9   | Xenia and Ringroad | 1000       | Implementation | ✅ |
+| 10  | Raising Bacteria | 1000       | Bitmasks | ✅ |
 
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 09
-- 🔥 Current Streak: 09 days  
+- ✅ Total Problems Solved: 10
+- 🔥 Current Streak: 10 days  
 - 🎯 Target: 100 Days  
 
 
