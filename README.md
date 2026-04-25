@@ -25,15 +25,16 @@ Build strong problem-solving skills by solving Codeforces problems consistently 
 | 8   | cAPS lOCK | 1000       | Implementation, Strings | ✅ |
 | 9   | Xenia and Ringroad | 1000       | Implementation | ✅ |
 | 10  | Raising Bacteria | 1000       | Bitmasks | ✅ |
-| 10  | Football | 1000       | Strings | ✅ |
+| 11  | Football | 1000       | Strings | ✅ |
+| 12  | Chemistry | 900       | Strings | ✅ |
 
 
 ---
 
 ## 🔥 Stats
 
-- ✅ Total Problems Solved: 11
-- 🔥 Current Streak: 11 days  
+- ✅ Total Problems Solved: 12
+- 🔥 Current Streak: 12 days  
 - 🎯 Target: 100 Days  
 
 
